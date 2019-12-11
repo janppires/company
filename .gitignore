@@ -25,5 +25,5 @@ hs_err_pid*
 # IntelliJ
 .DS_Store
 .idea
-
+*.iml
 target/
